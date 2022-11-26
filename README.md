@@ -1,7 +1,3 @@
-# ExampleMod
-Example SpiderHeck mod
-
-# Useful links
-- BepInEx: https://github.com/BepInEx/BepInEx/releases/latest
-- SpiderHeck modding docs by Exo: https://docs.modweaver.org/
-- Official HarmonyLib site: https://harmony.pardeike.net/
+# Spidermas
+![bepinhecks](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/built-with/bepinhecks_vector.svg)
+### A mod that makes the SpiderHeck lobby always use the christmas theme
